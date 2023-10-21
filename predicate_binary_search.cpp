@@ -1,8 +1,14 @@
 // https://codeforces.com/problemset/problem/1886/B
+#include<bits/stdc++.h>
+using namespace std;
 
  
 using namespace std;
 using ll = long long;
+
+
+
+
  
 int pa, pb, ax, ay, bx, by;
  
