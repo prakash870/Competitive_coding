@@ -1,4 +1,22 @@
 // https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
+// https://codeforces.com/problemset/problem/1886/B
 #include<bits/stdc++.h>
  
 using namespace std;
